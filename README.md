@@ -1,4 +1,4 @@
-<h2 align="center">안녕하세요 안재원입니다.</h2>
+<h2 align="center">Jaewon's Github</h2>
 
 ---
 
