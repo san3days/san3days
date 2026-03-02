@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I'm Jaewon 👋</h2>
+<h2 align="center">재원</h2>
 <p align="center">
-  Frontend Developer focused on React & clean UI architecture
+ 프론트엔드 개발 작업을 진행하고 있습니다.
 </p>
 
 ---
@@ -17,5 +17,3 @@
 
 ---
 
-## ✍️ Blog
-Velog → https://velog.io/@sandays
